@@ -78,8 +78,8 @@
 - type: entity
   parent: ClothingOuterSuitEmergency
   id: ClothingOuterEVASuitScience
-  name: science EVA suit
-  description: A space suit designed to protect scientists from the vacuum of space and some other hazards associated with their jobs.
+  name: hazardous experimentation suit
+  description: A suit designed to protect scientists from injuries commonly experienced during more dangerous testing, as well as offering a modicum of space protection.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/Suits/eva_science.rsi
