@@ -50,6 +50,18 @@
         - id: ClothingHeadHelmetEVALarge
         - id: ClothingMaskBreath
 
+#Science EVA
+- type: entity
+  id: SuitStorageEVAScience
+  parent: SuitStorageBase
+  suffix: Hazardous Experimentation Suit
+  components:
+  - type: StorageFill
+    contents:
+        - id: OxygenTankFilled
+        - id: ClothingOuterEVASuitScience
+        - id: ClothingMaskGas
+        
 #Syndicate EVA
 - type: entity
   id: SuitStorageEVASyndicate
